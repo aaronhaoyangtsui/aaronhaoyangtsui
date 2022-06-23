@@ -2,6 +2,8 @@
 
 - 📫 How to reach me
 
+aarontsui.carrd.co
+
 aaron.haoyang.tsui@gmail.com
 
 <!---
