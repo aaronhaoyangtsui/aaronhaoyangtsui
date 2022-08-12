@@ -2,7 +2,7 @@
 
 - 📫 How to reach me
 
-aarontsui.carrd.co
+https://aarontsui.carrd.co/
 
 aaron.tsui.careers@gmail.com
 
