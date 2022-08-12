@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @aaronhaoyangtsui
+- 👋 Hi, I’m Aaron Tsui.
 
 - 📫 How to reach me
 
 aarontsui.carrd.co
 
-aaron.haoyang.tsui@gmail.com
+aaron.tsui.careers@gmail.com
 
 <!---
 aaronhaoyangtsui/aaronhaoyangtsui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
